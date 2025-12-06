@@ -1,6 +1,7 @@
 class Solution {
 public:
     int fib(int n) {
+        //Resurssive approach
 
         if (n==0) {
             return 0;
